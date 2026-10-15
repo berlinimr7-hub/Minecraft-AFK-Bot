@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
+  "serverHost": "craked.veinmc.com",
   "serverPort": 12345,
-  "botUsername": "MyBot",
+  "botUsername": "bot_afk",
   "botChunk": 1
 }
